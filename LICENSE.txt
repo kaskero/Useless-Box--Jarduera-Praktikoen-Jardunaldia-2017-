@@ -1,6 +1,6 @@
 3D PRINTS
 
-Ball & Beam control (3D prints) by César Pérez (cesar.perez@ehu.eus) is licensed under a Creative Commons Attribution 4.0 Internacional License.
+Useless-Box--Jarduera-Praktikoen-Jardunaldia-2017- (3D prints) by César Pérez (cesar.perez@ehu.eus) is licensed under a Creative Commons Attribution 4.0 Internacional License.
 
 ARDUINO CODE
 
